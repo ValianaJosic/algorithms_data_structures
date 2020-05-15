@@ -8,4 +8,4 @@ for(i = 1 ; i <= n; i++){
 return total
 }
 
-console.log(addUpTo(6))
+console.log(addUpTo(3))
