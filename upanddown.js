@@ -7,3 +7,5 @@ function countUpAndDown(n){
     }
     console.log('Back down. Bye!')
 }
+
+countUpAndDown(10)
